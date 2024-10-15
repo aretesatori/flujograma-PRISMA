@@ -6,6 +6,6 @@ Plantilla de flujograma para revisión sistemática de la literatura desarrollad
 
 <br>
 <div style="text-align: center;">
-    <img src="Preview-Flujograma.png" alt="Preview of the diagram" width="500px" max-width="100%"/>
+    <img src="Preview-Flujograma.png" alt="Preview of the diagram" width="750px" max-width="100%"/>
 </div>
 <br>

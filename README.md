@@ -1,6 +1,6 @@
 # Flujograma | Revisión Sistemática de la Literatura
 
-Plantilla de flujograma para revisión sistemática de la literatura desarrollada en _draw.io_.
+Modelo de flujograma para revisión sistemática de la literatura, desarrollado en [_draw.io_](https://app.diagrams.net/).
 
 ---
 # Vista Previa

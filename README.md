@@ -4,7 +4,7 @@ Modelo de flujograma para revisión sistemática de la literatura, desarrollado 
 
 ---
 
-## Vista Previa
+## 🔎 Vista Previa
 
 <div style="text-align: center;">
     <img src="Template-Flujograma.png" alt="Preview of the diagram" width="80%"/>
@@ -12,7 +12,7 @@ Modelo de flujograma para revisión sistemática de la literatura, desarrollado 
 
 ---
 
-# Como editar el flujograma (paso a paso)
+# 📝 Como editar el flujograma (paso a paso)
 
 A continuación se mostrará un breve paso a paso de como editar el archivo de flujograma utilizando **draw.io**.
 
@@ -35,7 +35,7 @@ A continuación se mostrará un breve paso a paso de como editar el archivo de f
 
 **1.4.** Luego de eso, debería ser descargado un archivo llamado `flujograma-revision-sistematica-main.zip`.
 
-<img src="images/image2.png" width="100%">
+<img src="images/image2.png" width="75%">
 
 **1.5.** Una vez descargado el archivo comprimido, descomprímelo e identifique el archivo `Template-Flujograma.drawio`. Ese archivo corresponde al archivo editable del flujograma.
 
@@ -63,25 +63,25 @@ A continuación se mostrará un breve paso a paso de como editar el archivo de f
 
 **4.1.** Si no hubo problemas hasta el paso anterior, inmediatamente después de seleccionar y subir el archivo señalado debería verse el diagrama, tal como se muestra a continuación:
 
-<img src="images/image6.png">
+<img src="images/image6.png" width="100%">
 
 ## 5. Guardar o exportar el flujograma
 
 **5.1.** Para guardar el diagrama en **formato de imagen**, dentro de la interfaz de draw.io diríjase a "File", "Export as", y seleccione el formato en el que desea guardar.  
 
-<img src="images/image7.png">
+<img src="images/image7.png" width="75%">
 
 De forma general, se recomienda guardar en formato **PNG** (_Portable Network Graphics_) para una menor pérdida de calidad.
 
 **5.2.** Para guardar el diagrama como un **archivo editable**, dentro de la interfaz de draw.io diríjase a "File", haga clic en "Save As", tal como se muestra a continuación:
 
-<img src="images/image8.png">
+<img src="images/image8.png" width="80%">
 
 Seleccione el nombre del archivo, donde desea guardarlo, y finalmente haga clic en el botón "OK".
 
 ---
 
-## Referencias
+## 🌐 Referencias
 
 * **Use the draw.io editor** (https://www.drawio.com/doc/getting-started-editor)
 
@@ -89,7 +89,7 @@ Seleccione el nombre del archivo, donde desea guardarlo, y finalmente haga clic 
 
 ---
 
-# Contacto
+# 💬 Contacto
 
 Cualquier sugerencia, contribución y/o comentario es bienvenido.
 

@@ -26,7 +26,7 @@ A continuación se mostrará un breve paso a paso de como editar el archivo de f
 
 **1.1.** Ingrese al repositorio en GitHub:
 
-> https://github.com/aretesatori/flujograma-revision-sistematica
+> https://github.com/aretesatori/flujograma-PRISMA
 
 **1.2.** Haga clic en el botón "Code" de color verde, ubicado en la parte superior de la página del repositorio. Tal como se muestra en la imagen a continuación:  
 
@@ -40,16 +40,16 @@ A continuación se mostrará un breve paso a paso de como editar el archivo de f
     <img src="images/image1.png" width="80%">
 <p>
 
-**1.4.** Luego de eso, debería ser descargado un archivo comprimido llamado `flujograma-revision-sistematica-main.zip` con todo el contenido de este repositorio, incluyendo este documento con las instrucciones.
+**1.4.** Luego de eso, debería ser descargado un archivo comprimido llamado `flujograma-PRISMA-main.zip` con todo el contenido de este repositorio, incluyendo este documento con las instrucciones.
 
 <p align="center">
-    <img src="images/image2.png" width="70%">
+    <img src="images/image2.png" width="80%">
 <p>
 
-**1.5.** Una vez descargado el repositorio, descomprima `flujograma-revision-sistematica-main.zip` e identifique el archivo `Template-Flujograma.drawio`. **Ese archivo corresponde al editable del flujograma**.
+**1.5.** Una vez descargado el repositorio, descomprima `flujograma-PRISMA-main.zip` e identifique el archivo `Template-Flujograma.drawio`. **Ese archivo corresponde al editable del flujograma**.
 
 <p align="center">
-    <img src="images/image3.png" width="90%">
+    <img src="images/image3.png" width="80%">
 <p>
 
 ## 2. Ingrese a **draw.io**
@@ -76,7 +76,7 @@ A continuación se mostrará un breve paso a paso de como editar el archivo de f
 
 Enseguida debería mostrarse una ventana emergente en su navegador que permitirá buscar y abrir el archivo editable desde su computador. 
 
-Ingrese al directorio del repositorio descargado (`flujograma-revision-sistematica-main.zip` que fue descomprimido) y seleccione el archivo `Template-Flujograma.drawio`.
+Ingrese al directorio del repositorio descargado (`flujograma-PRISMA-main.zip` que fue descomprimido) y seleccione el archivo `Template-Flujograma.drawio`.
 
 ## 4. Visualice y Edite el Flujograma
 
@@ -86,9 +86,7 @@ Ingrese al directorio del repositorio descargado (`flujograma-revision-sistemati
     <img src="images/image6.png" width="100%">
 <p>
 
-**4.2.** La interfaz de **draw.io** es relativamente intuitiva, de manera que cualquier usuario puede utilizar y editar diagramas sin nunca haber utilizado esa plataforma. 
-
-Asimismo, a continuación se mostrará brevemente cómo editar la información contenida en el flujograma.
+**4.2.** La interfaz de **draw.io** es relativamente intuitiva, de manera que cualquier usuario puede utilizar y editar diagramas sin nunca haber utilizado esa plataforma. Asimismo, a continuación se mostrará brevemente cómo editar la información contenida en el flujograma.
 
 **4.2.1.** 
 
@@ -120,19 +118,17 @@ De forma general, se recomienda guardar los diagramas en formato **PNG** (_Porta
 
 # Información Adicional
 
-Para este flujograma, dentro de cada rectángulo blanco se utiliza **fuente Helvetica**, letra **tamaño 16 px**, texto con centrado horizontal y vertical respecto al rectángulo y color de texto negro (hexadecimal **#000**). 
+* Para este flujograma, dentro de cada rectángulo blanco se utiliza **fuente Helvetica**, letra **tamaño 16 px**, texto con centrado horizontal y vertical respecto al rectángulo y color de texto negro (hexadecimal **#000**). 
 
 <p align="center">
-    <img src="images/info0.png" width="75%">
+    <img src="images/info0.png" width="70%">
 <p>
 
-Dentro de los rectángulos azules (lado izquierdo) y dentro del rectángulo naranja (parte superior) se utiliza **fuente Arial**, letra **tamaño 16 px**, texto en **negrita**, texto con centrado horizontal y vertical respecto al rectángulo y color de texto negro (hexadecimal **#000**). 
+* Dentro de los rectángulos azules (lado izquierdo) y dentro del rectángulo naranja (parte superior) se utiliza **fuente Arial**, letra **tamaño 16 px**, texto en **negrita**, texto con centrado horizontal y vertical respecto al rectángulo y color de texto negro (hexadecimal **#000**). 
 
 <p align="center">
     <img src="Template-Flujograma.png" width="75%">
 <p>
-
-Template-Flujograma.png
 
 * El **color naranja** de relleno utilizado es **#FFC000** y el color del borde es #E3AB00. El ancho del borde es 2 pt.
 

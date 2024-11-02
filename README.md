@@ -20,8 +20,6 @@ A continuación se mostrará un breve paso a paso de como editar el archivo de f
 
 **Nota:** Para llevar a cabo la edición de este flujograma y seguir el procedimiento detallado en este documento, se recomienda el uso de un ordenador, ya que no se incluye un paso a paso de edición desde un celular o dispositivo móvil.  
 
-<br>
-
 > **Cabe destacar que el flujograma ha sido diseñado específicamente para ser editado en la plataforma [draw.io](https://app.diagrams.net/).**
 
 ## 1. Descargue este Repositorio
@@ -45,7 +43,7 @@ A continuación se mostrará un breve paso a paso de como editar el archivo de f
 **1.4.** Luego de eso, debería ser descargado un archivo comprimido llamado `flujograma-revision-sistematica-main.zip` con todo el contenido de este repositorio, incluyendo este documento con las instrucciones.
 
 <p align="center">
-    <img src="images/image2.png" width="80%">
+    <img src="images/image2.png" width="70%">
 <p>
 
 **1.5.** Una vez descargado el repositorio, descomprima `flujograma-revision-sistematica-main.zip` e identifique el archivo `Template-Flujograma.drawio`. **Ese archivo corresponde al editable del flujograma**.
@@ -74,7 +72,11 @@ A continuación se mostrará un breve paso a paso de como editar el archivo de f
     <img src="images/image5.png" width="90%">
 <p>
 
-**3.2.** Si le aparecen esas opciones, haga clic en la segunda opción "**Open Existing Diagram**". Enseguida debería mostrarse una ventana emergente en su navegador que permitirá buscar y abrir el archivo editable desde su computador. Ingrese al directorio del repositorio descargado (`flujograma-revision-sistematica-main.zip` que fue descomprimido) y seleccione el archivo `Template-Flujograma.drawio`.
+**3.2.** Si le aparecen esas opciones, haga clic en la segunda opción "**Open Existing Diagram**". 
+
+Enseguida debería mostrarse una ventana emergente en su navegador que permitirá buscar y abrir el archivo editable desde su computador. 
+
+Ingrese al directorio del repositorio descargado (`flujograma-revision-sistematica-main.zip` que fue descomprimido) y seleccione el archivo `Template-Flujograma.drawio`.
 
 ## 4. Visualice y Edite el Flujograma
 
@@ -84,11 +86,13 @@ A continuación se mostrará un breve paso a paso de como editar el archivo de f
     <img src="images/image6.png" width="100%">
 <p>
 
-**4.2.** La interfaz de **draw.io** es relativamente intuitiva, de manera que cualquier usuario puede utilizar y editar diagramas sin nunca haber utilizado esa plataforma. Asimismo, a continuación se mostrará brevemente cómo editar la información contenida en el flujograma.
+**4.2.** La interfaz de **draw.io** es relativamente intuitiva, de manera que cualquier usuario puede utilizar y editar diagramas sin nunca haber utilizado esa plataforma. 
+
+Asimismo, a continuación se mostrará brevemente cómo editar la información contenida en el flujograma.
 
 **4.2.1.** 
 
-> Para este flujograma, dentro de cada rectángulo blanco se utiliza **fuente Helvetica**, letra **tamaño 16 px**, centrado horizontal, color negro (hexadecimal **#000**). 
+
 
 ## 5. Guardar o Exportar el Flujograma
 
@@ -103,14 +107,48 @@ De forma general, se recomienda guardar los diagramas en formato **PNG** (_Porta
 **5.2.** Para guardar el diagrama como un **archivo editable**, dentro de la interfaz de **draw.io** diríjase a "File" y haga clic en "Save As", tal como se muestra a continuación:
 
 <p align="center">
-    <img src="images/image8.png" width="90%">
+    <img src="images/image8.png" width="75%">
 <p>
 
-Seleccione el nombre del archivo, donde desea guardarlo, y finalmente haga clic en el botón "OK".
+**5.3.** Seleccione el nombre del archivo, donde desea guardarlo, y finalmente haga clic en el botón "OK".
+
+<p align="center">
+    <img src="images/image9.png" width="90%">
+<p>
 
 ---
 
-## 🌐 Referencias
+# Información Adicional
+
+Para este flujograma, dentro de cada rectángulo blanco se utiliza **fuente Helvetica**, letra **tamaño 16 px**, texto con centrado horizontal y vertical respecto al rectángulo y color de texto negro (hexadecimal **#000**). 
+
+<p align="center">
+    <img src="images/info0.png" width="75%">
+<p>
+
+Dentro de los rectángulos azules (lado izquierdo) y dentro del rectángulo naranja (parte superior) se utiliza **fuente Arial**, letra **tamaño 16 px**, texto en **negrita**, texto con centrado horizontal y vertical respecto al rectángulo y color de texto negro (hexadecimal **#000**). 
+
+<p align="center">
+    <img src="Template-Flujograma.png" width="75%">
+<p>
+
+Template-Flujograma.png
+
+* El **color naranja** de relleno utilizado es **#FFC000** y el color del borde es #E3AB00. El ancho del borde es 2 pt.
+
+<p align="center">
+    <img src="images/info1.png" width="80%">
+<p>
+
+* El **color azul** de relleno utilizado es **#9DC3E6** y el color de borde es #688199. El ancho del borde es 2 pt.
+
+<p align="center">
+    <img src="images/info2.png" width="80%">
+<p>
+
+---
+
+# 🌐 Referencias
 
 > **Flowchart Maker & Online Diagram Software** (https://app.diagrams.net/)
 

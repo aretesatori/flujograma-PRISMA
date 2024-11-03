@@ -1,10 +1,10 @@
-# Flujograma PRISMA | Revisión Sistemática de la Literatura
+# Flujograma PRISMA
 
-Este repositorio contiene un modelo de flujograma PRISMA desarrollado en [_draw.io_](https://app.diagrams.net/), utilizado para una revisión sistemática de la literatura.
+Este repositorio contiene un modelo de flujograma **PRISMA** (_Preferred Reporting Items for Systematic Reviews and Meta-Analyses_) desarrollado en [_draw.io_](https://app.diagrams.net/), utilizado inicialmente para una revisión sistemática de la literatura.
 
 ---
 
-## 🔎 Vista Previa
+## 🔎 Vista previa
 
 <!-- Temporalmente se utiliza <p align="center"><img></p> en lugar de <div style="text-align: center"><img></div> para el centrado de las imágenes en este documento. -->
 
@@ -14,7 +14,7 @@ Este repositorio contiene un modelo de flujograma PRISMA desarrollado en [_draw.
 
 ---
 
-# 📝 Como Editar el Flujograma (paso a paso)
+# 📝 Como editar el flujograma (paso a paso)
 
 A continuación se mostrará un breve paso a paso de como editar el archivo de flujograma utilizando **draw.io**.
 
@@ -22,7 +22,7 @@ A continuación se mostrará un breve paso a paso de como editar el archivo de f
 
 > **Cabe destacar que el flujograma ha sido diseñado específicamente para ser editado en la plataforma [draw.io](https://app.diagrams.net/).**
 
-## 1. Descargue este Repositorio
+## 1. Descargue este repositorio
 
 **1.1.** Ingrese al repositorio en GitHub:
 
@@ -52,7 +52,7 @@ A continuación se mostrará un breve paso a paso de como editar el archivo de f
     <img src="images/image04.png" width="80%">
 <p>
 
-## 2. Ingrese a **draw.io** y Abra el Archivo Editable
+## 2. Ingrese a **draw.io** y abra el archivo editable
 
 **2.1.** Una vez tenga el archivo del paso anterior, ingrese a la página de **draw.io**:  
 
@@ -76,7 +76,7 @@ Enseguida debería mostrarse una ventana emergente en su navegador que permitir�
 
 Ingrese al directorio del repositorio descargado (`flujograma-PRISMA-main.zip` que fue descomprimido) y seleccione el archivo `Template-Flujograma.drawio`.
 
-## 3. Visualice y Edite el Flujograma
+## 3. Visualice y edite el flujograma
 
 **3.1.** Si no hubo problemas hasta el paso anterior, inmediatamente después de seleccionar y subir el archivo señalado debería verse el diagrama, tal como se muestra a continuación:
 
@@ -86,19 +86,21 @@ Ingrese al directorio del repositorio descargado (`flujograma-PRISMA-main.zip` q
 
 **3.2.** La interfaz de **draw.io** es relativamente intuitiva, de manera que cualquier usuario puede utilizar y editar diagramas sin nunca haber utilizado esa plataforma. Asimismo, a continuación se mostrará brevemente cómo editar la información contenida en el flujograma.
 
-**3.2.1.** Para editar el texto, haga doble clic sobre el mismo y realice las modificaciones que desee.
+**3.2.1.** Para editar el texto, haga doble clic sobre el mismo y realice las modificaciones que desee. 
+
+Para este modelo se utilizaron las bases de datos **ScienceDirect** y **EBSCOHost**, que se mantuvieron como una referencia para el diseño y la estructura del flujograma. Se sugiere modificar la información según sus necesidades.
 
 <p align="center">
     <img src="images/image08.png" width="70%">
 <p>
 
-**3.2.2.** En caso que sea necesario modificar las dimensiones de cada rectángulo o adaptarlo según el tamaño del texto, haga clic sobre el rectángulo y utilice las esquinas para cambiar su tamaño, tal como lo indica la misma aplicación.
+**3.2.2.** En caso que sea necesario modificar las dimensiones de cada rectángulo o adaptarlo según el tamaño del texto, haga clic sobre el rectángulo y utilice las esquinas para cambiar su tamaño, tal como se muestra en la misma aplicación:
 
 <p align="center">
     <img src="images/image09.png" width="70%">
 <p>
 
-## 4. Guardar o Exportar el Flujograma
+## 4. Guarde o exporte el flujograma
 
 **4.1.** Para guardar el diagrama en **formato de imagen**, dentro de la interfaz de **draw.io** diríjase a "File", "Export as", y seleccione el formato en el que desea guardar.  
 
@@ -122,7 +124,7 @@ De forma general, se recomienda guardar los diagramas en formato **PNG** (_Porta
 
 ---
 
-# Información Adicional
+# Información adicional
 
 * Para este flujograma, dentro de cada rectángulo blanco se utiliza **fuente Helvetica**, letra **tamaño 16 px**, texto con centrado horizontal y vertical respecto al rectángulo y color de texto negro (hexadecimal **#000**). 
 
@@ -136,21 +138,23 @@ De forma general, se recomienda guardar los diagramas en formato **PNG** (_Porta
     <img src="Template-Flujograma.png" width="75%">
 <p>
 
-* El **color naranja** de relleno utilizado es **#FFC000** y el color del borde es #E3AB00. El ancho del borde es de 2 pt.
+* El **color naranja** de relleno utilizado es **#FFC000**. El **color del borde** es **#E3AB00** y su ancho es de **2 pt**.
 
 <p align="center">
     <img src="images/info1.png" width="80%">
 <p>
 
-* El **color azul** de relleno utilizado es **#9DC3E6** y el color de borde es #688199. El ancho del borde es de 2 pt.
+* El **color azul** de relleno utilizado es **#9DC3E6**. El **color del borde** es **#688199** y su ancho es de **2 pt**.
 
 <p align="center">
-    <img src="images/info2.png" width="75%">
+    <img src="images/info2.png" width="85%">
 <p>
 
 ---
 
 # 🌐 Referencias
+
+> **PRISMA 2020 flow diagram — PRISMA statement** (https://www.prisma-statement.org/prisma-2020-flow-diagram)
 
 > **Flowchart Maker & Online Diagram Software** (https://app.diagrams.net/)
 
